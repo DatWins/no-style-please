@@ -22,7 +22,7 @@ entries:
       
  - title: post by category - Example 2
     post_list:
-      category: Testing
+      category: example2
       show_more: false
       show_more_text: See more posts...
       show_more_url: categories.html
