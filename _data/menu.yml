@@ -10,7 +10,6 @@ entries:
       limit: 5
       show_more: true
 
- entries:
   - title: All Posts
     url: archive.html
 
