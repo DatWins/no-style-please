@@ -13,7 +13,7 @@ entries:
   - title: All Posts
     url: archive.html
 
-  - title: All Posts in Category: example 2
+  - title: post by category - example 2
     post_list:
       category: example2
       show_more: false
