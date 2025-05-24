@@ -20,13 +20,7 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
- - title: All Posts in Category: Testing
-    post_list:
-      category: Testing
-      show_more: false
-      show_more_text: See more posts...
-      show_more_url: Testing-archive.html
-      
+    
 
  #  - title: rss
  #   url: feed.xml
