@@ -16,14 +16,14 @@ entries:
   - title: All Posts in Category: example 2
     post_list:
       category: example2
-      show_more: true
+      show_more: false
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
  - title: All Posts in Category: Testing
     post_list:
       category: Testing
-      show_more: true
+      show_more: false
       show_more_text: See more posts...
       show_more_url: Testing-archive.html
       
