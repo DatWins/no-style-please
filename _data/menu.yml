@@ -12,6 +12,9 @@ entries:
 
   - title: All Posts
     url: archive.html
+
+  - title: All Categories
+    url: categories.html   
    
  #  - title: rss
  #   url: feed.xml
