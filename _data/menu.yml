@@ -12,13 +12,6 @@ entries:
 
   - title: All Posts
     url: archive.html
-
-   - title: post by category
-    post_list:
-      category: Testing
-      show_more: false
-      show_more_text: See more posts...
-      show_more_url: categories.html
    
  #  - title: rss
  #   url: feed.xml
