@@ -13,14 +13,14 @@ entries:
   - title: All Posts
     url: archive.html
 
-   - title: post by category - Testing
+   - title: post by category
     post_list:
       category: Testing
       show_more: false
       show_more_text: See more posts...
       show_more_url: categories.html
       
- - title: post by category - Example 2
+ - title: post by category
     post_list:
       category: example2
       show_more: false
