@@ -16,12 +16,12 @@ entries:
   - title: All Categories
     url: categories.html
 
-  - title: post by category - example 2
+  - title: post by category 
     post_list:
       category: example2
       show_more: false
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: categories.html
       
  
  #  - title: rss
