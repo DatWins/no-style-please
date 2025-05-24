@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+This is my work journal page!
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+I am just writing things down so I don't forget.
