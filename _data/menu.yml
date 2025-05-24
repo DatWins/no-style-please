@@ -18,7 +18,7 @@ entries:
 
   - title: post by category 
     post_list:
-      category: example2
+      category: Testing
       show_more: false
       show_more_text: See more posts...
       show_more_url: categories.html
