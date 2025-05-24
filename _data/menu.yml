@@ -13,6 +13,9 @@ entries:
   - title: All Posts
     url: archive.html
 
+  - title: All Categories
+    url: categories.html
+
   - title: post by category - example 2
     post_list:
       category: example2
@@ -20,14 +23,7 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
       
- - title: post by category - Testing
-    post_list:
-      category: Testing
-      show_more: false
-      show_more_text: See more posts...
-      show_more_url: Testing-archive.html
-    
-
+ 
  #  - title: rss
  #   url: feed.xml
   
