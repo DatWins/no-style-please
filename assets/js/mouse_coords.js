@@ -1,6 +1,6 @@
 const p = document.createElement("p");
 p.style.textAlign = "center";
-p.style.fontSize = "25pt";
+p.style.fontSize = "22pt";
 p.innerHTML = "C'mon, move your mouse!"
 document.body.append(p);
 
