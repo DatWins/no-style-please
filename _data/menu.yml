@@ -13,12 +13,20 @@ entries:
   - title: All Posts
     url: archive.html
 
-  - title: posts by category
+  - title: All Posts in Category: example 2
     post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
+ - title: All Posts in Category: Testing
+    post_list:
+      category: testing
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: testing-archive.html
+      
 
  #  - title: rss
  #   url: feed.xml
