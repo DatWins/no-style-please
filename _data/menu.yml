@@ -7,7 +7,7 @@ entries:
 
   - title: Recent Posts
     post_list:
-      limit: 5
+      limit: 3
       show_more: false
 
   - title: All Posts
